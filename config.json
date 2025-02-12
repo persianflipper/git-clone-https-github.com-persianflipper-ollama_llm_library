@@ -1,0 +1,6 @@
+{
+    "content-filter": false,
+    "restricted-mode": false,
+    "max-tokens": 100000,
+    "jailbreak-protection": false
+}
